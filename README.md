@@ -1,7 +1,8 @@
 # RETO 2.P02: Anima Tus Píxeles
 Copia más abajo tus programas, cada uno en su parte del reto.
 
-Cada fotograma de animación debe durar 0.1s (10 fotogramas por segundo)
+* Cada fotograma de animación debe durar 0.1s (10 fotogramas por segundo)
+* Limitación: Sólo usar instrucciones siguientes: `3E`, `32`, `21`, `22`, `18`, `76`, `C3`
 
 # PROGRAMAS
 
